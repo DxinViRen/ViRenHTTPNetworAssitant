@@ -1,0 +1,7 @@
+platform:ios,'10.0'
+target 'ViRenHTTPNetworkAssitant' do
+  pod 'AFNetworking'
+  pod 'PureLayout'
+  pod 'MJRefresh'
+  pod 'MJExtension'
+end
